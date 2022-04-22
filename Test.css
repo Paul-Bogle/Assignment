@@ -101,7 +101,7 @@ form {
 }
 
 .setup{
-margin-left: 60px;
+margin-left: 130px;
 
 }
 
@@ -117,8 +117,11 @@ margin-right: 60px;
 }
 
 .entry_one{
-
-
+text-align: left;
+margin-right: 1500px;
+font-size: 14px;
+margin-top: -160px;
+margin-left: 50px; 
 }
 
 .entry_two{
@@ -128,5 +131,5 @@ margin-right: 60px;
 
 .entry_three{
 
-  
+
 }
