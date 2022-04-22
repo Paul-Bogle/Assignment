@@ -149,3 +149,9 @@ object-fit: scale-down;
 align-items: center;
 
 }
+
+.p_contact{
+height:300px ;
+width: 100%;
+align-items: left;
+}
