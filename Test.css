@@ -84,3 +84,14 @@ form {
 .title_contact{
   margin-top: -300px;
 }
+  
+.title_report{
+  margin-top: -300px;
+}
+
+.report_text{
+  margin-top: -500px;
+  margin-left: 175px;
+  margin-right: 175px;
+  font-weight: 150;
+}
