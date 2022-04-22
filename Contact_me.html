@@ -14,19 +14,21 @@
     <header>
         <nav>
             <ul>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="Portfolio.html">Portfolio</a></li>
-                <li><a href="Contact.html">Contact Me</a></li>
                 <li><a href="Blog.html">Blog</a></li>
                 <li><a href="Report.html">Report</a></li>
             </ul>
         </nav>
     </header>
-    <h1 class="title">Welcome</h1>
-    <h3 class="subheading">Hi my name is Paul Bogle and this is my first website!</h3>
-    <p>In the pages you will find mainly my portfolio which includes preivous work i have done along with other pages such as a blog on how i found creating this website along with a page that allows you to contact me.</p>
-    <footer>
-        <p>Assignmnet 1 - Paul Bogle</p>
-    </footer> 
+    <h1 class="title_contact">Contact Me</h1>
+    <form action="mailto:psbogleco@outlook.com" method="GET">
+        <label id="subjectLabel" name="subjectLabel" for="subject">Subject</label>
+        <input id="subject" name="subject"/>
+        <label id="bodyLabel" name="bodyLabel" for="body">Message</label>
+        <input id="body" name="body">
+        <input type="submit" id="submit">
+    </form>
 </body>
 
 </html>
