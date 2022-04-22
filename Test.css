@@ -97,22 +97,23 @@ form {
 }
 
 .title_blog{
-  margin-top: -60px
+  margin-top: -70px;
 }
 
 .setup{
 margin-left: 130px;
+margin-top: -50px;
 
 }
 
 .adding_content{
 text-align: center;
-margin-top: -90px;
+margin-top: -170px;
 }
 
 .further_content{
 text-align: right;
-margin-top: -150px;
+margin-top: -270px;
 margin-right: 60px;
 }
 
@@ -120,7 +121,7 @@ margin-right: 60px;
 text-align: left;
 margin-right: 1500px;
 font-size: 14px;
-margin-top: -160px;
+margin-top: -350px;
 margin-left: 50px; 
 }
 
@@ -129,13 +130,13 @@ text-align: center;
 margin-right: 770px;
 margin-left: 770px;
 font-size: 14px; 
-margin-top: -570px;
+margin-top: -510px;
 }
 
 .entry_three{
 text-align: right;
 margin-left:1500px;
-margin-top: -650px;
+margin-top: -610px;
 margin-right: 40px;
 font-size:14px;
 }
