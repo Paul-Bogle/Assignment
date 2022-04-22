@@ -44,6 +44,7 @@ h1 {
 .title {
   padding-top: 13%;
   font-size: 300%;
+  margin-top: -220px;
 }
 li {
   list-style: none;
@@ -141,4 +142,10 @@ margin-right: 40px;
 font-size:14px;
 }
 
-.
+.p_logo{
+height:250px;
+width: 100%;
+object-fit: scale-down;
+align-items: center;
+
+}
