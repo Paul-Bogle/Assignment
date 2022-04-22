@@ -125,8 +125,11 @@ margin-left: 50px;
 }
 
 .entry_two{
-
-
+text-align: center;
+margin-right: 770px;
+margin-left: 770px;
+font-size: 14px; 
+margin-top: -460px;
 }
 
 .entry_three{
