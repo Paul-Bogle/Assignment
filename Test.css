@@ -129,10 +129,13 @@ text-align: center;
 margin-right: 770px;
 margin-left: 770px;
 font-size: 14px; 
-margin-top: -460px;
+margin-top: -570px;
 }
 
 .entry_three{
-
-
+text-align: right;
+margin-left:1500px;
+margin-top: -650px;
+margin-right: 40px;
+font-size:14px;
 }
